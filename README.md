@@ -1,3 +1,1 @@
-# django_ai_cms
-# AI---Powered-CWS
-# AI_CWS
+# django_ai_content writing application
