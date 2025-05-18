@@ -1,1 +1,1 @@
-# django_ai_content writing application
+# django_ai_content writing software application
